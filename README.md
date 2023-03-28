@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sschul33
+- 👋 Hi, I’m @sschul33. I work for T-Systems.
 - 👀 I’m interested in making Cantena-X a success story
 - 🌱 I’m currently learning ChatGPT
 - 💞️ I’m looking to collaborate on ontologies
